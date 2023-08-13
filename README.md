@@ -5,4 +5,4 @@
 - ⚡ Rumo à cyber.
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandast&size_weight=0.5&count_weight=0.5)
-  [![xanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/xandast/github-readme-stats)
+  [![xanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandast)](https://github.com/xandast/github-readme-stats)
