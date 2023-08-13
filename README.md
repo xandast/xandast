@@ -1,6 +1,8 @@
-### OII 👋
+### Oii 👋
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/xanda_st?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+
+![xandast GitHub stats](https://github-readme-stats.vercel.app/api?username=xandast&show_icons=true&theme=radical)
 
 <!--
 **xandast/xandast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
